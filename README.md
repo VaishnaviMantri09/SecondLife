@@ -1,4 +1,3 @@
-# Second-Life
 Description About Project:
 
 Our app is primarily based on the thought of goodwill/charity. If people have extra or used products that they want to rent/giveaway, 
